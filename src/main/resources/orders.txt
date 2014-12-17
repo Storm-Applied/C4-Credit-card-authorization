@@ -1,0 +1,12 @@
+{"id":1234,"customerId":5678,"creditCardNumber":1111222233334444,"creditCardExpiration":"012014","creditCardCode":123,"chargeAmount":42.23}
+{"id":5678,"customerId":9012,"creditCardNumber":5555666677778888,"creditCardExpiration":"102013","creditCardCode":456,"chargeAmount":96.73}
+{"id":3456,"customerId":7890,"creditCardNumber":9999000011112222,"creditCardExpiration":"012014","creditCardCode":233,"chargeAmount":143.34}
+{"id":1234,"customerId":5678,"creditCardNumber":1111222233334444,"creditCardExpiration":"012014","creditCardCode":123,"chargeAmount":42.23}
+{"id":5678,"customerId":9012,"creditCardNumber":5555666677778888,"creditCardExpiration":"102013","creditCardCode":456,"chargeAmount":96.73}
+{"id":3456,"customerId":7890,"creditCardNumber":9999000011112222,"creditCardExpiration":"012014","creditCardCode":233,"chargeAmount":143.34}
+{"id":1234,"customerId":5678,"creditCardNumber":1111222233334444,"creditCardExpiration":"012014","creditCardCode":123,"chargeAmount":42.23}
+{"id":5678,"customerId":9012,"creditCardNumber":5555666677778888,"creditCardExpiration":"102013","creditCardCode":456,"chargeAmount":96.73}
+{"id":3456,"customerId":7890,"creditCardNumber":9999000011112222,"creditCardExpiration":"012014","creditCardCode":233,"chargeAmount":143.34}
+{"id":1234,"customerId":5678,"creditCardNumber":1111222233334444,"creditCardExpiration":"012014","creditCardCode":123,"chargeAmount":42.23}
+{"id":5678,"customerId":9012,"creditCardNumber":5555666677778888,"creditCardExpiration":"102013","creditCardCode":456,"chargeAmount":96.73}
+{"id":3456,"customerId":7890,"creditCardNumber":9999000011112222,"creditCardExpiration":"012014","creditCardCode":233,"chargeAmount":143.34}
